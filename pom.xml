@@ -10,7 +10,7 @@
 	<artifactId>dw-frameworks-shiro</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-frameworks-shiro</name>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<description>shiro框架扩展库</description>
 	
 	<!-- scm配置 -->
