@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.developerworld.frameworks</groupId>
 		<artifactId>dw-frameworks-parent</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.2</version>
 	</parent>
 
 	<artifactId>dw-frameworks-shiro</artifactId>
@@ -24,14 +24,10 @@
 		<dependency>
 			<groupId>commons-lang</groupId>
 			<artifactId>commons-lang</artifactId>
-			<version>2.6</version>
-			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.shiro</groupId>
 			<artifactId>shiro-core</artifactId>
-			<version>1.2.3</version>
-			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 </project>
